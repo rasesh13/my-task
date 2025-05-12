@@ -1,6 +1,6 @@
 a=input("Enter the first  number:")
-a=float(a)
 b=input("Enter the second number:")
+a=float(a)
 b=float(b)
 c=(a+b)
 d=(a*b)
@@ -10,3 +10,4 @@ print("Addition:",c)
 print("Multiplication:",d)
 print("Subtraction:",e)
 print("Division:",f)
+
